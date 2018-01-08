@@ -1,0 +1,11 @@
+D:\Coding\CSharp\InventoryCoreVisualStudio\InventoryCoreVisualStudio\bin\Debug\netcoreapp2.0\InventoryCoreVisualStudio.deps.json
+D:\Coding\CSharp\InventoryCoreVisualStudio\InventoryCoreVisualStudio\bin\Debug\netcoreapp2.0\InventoryCoreVisualStudio.runtimeconfig.json
+D:\Coding\CSharp\InventoryCoreVisualStudio\InventoryCoreVisualStudio\bin\Debug\netcoreapp2.0\InventoryCoreVisualStudio.runtimeconfig.dev.json
+D:\Coding\CSharp\InventoryCoreVisualStudio\InventoryCoreVisualStudio\bin\Debug\netcoreapp2.0\InventoryCoreVisualStudio.dll
+D:\Coding\CSharp\InventoryCoreVisualStudio\InventoryCoreVisualStudio\bin\Debug\netcoreapp2.0\InventoryCoreVisualStudio.pdb
+D:\Coding\CSharp\InventoryCoreVisualStudio\InventoryCoreVisualStudio\obj\Debug\netcoreapp2.0\InventoryCoreVisualStudio.csprojResolveAssemblyReference.cache
+D:\Coding\CSharp\InventoryCoreVisualStudio\InventoryCoreVisualStudio\obj\Debug\netcoreapp2.0\InventoryCoreVisualStudio.csproj.CoreCompileInputs.cache
+D:\Coding\CSharp\InventoryCoreVisualStudio\InventoryCoreVisualStudio\obj\Debug\netcoreapp2.0\InventoryCoreVisualStudio.AssemblyInfoInputs.cache
+D:\Coding\CSharp\InventoryCoreVisualStudio\InventoryCoreVisualStudio\obj\Debug\netcoreapp2.0\InventoryCoreVisualStudio.AssemblyInfo.cs
+D:\Coding\CSharp\InventoryCoreVisualStudio\InventoryCoreVisualStudio\obj\Debug\netcoreapp2.0\InventoryCoreVisualStudio.dll
+D:\Coding\CSharp\InventoryCoreVisualStudio\InventoryCoreVisualStudio\obj\Debug\netcoreapp2.0\InventoryCoreVisualStudio.pdb
